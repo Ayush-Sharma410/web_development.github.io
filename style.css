@@ -535,10 +535,13 @@ h1{
 
 
 .background-img{
-  width: 100vw;
-  height: 800px;
-  background-image: url("1234.jpg");
-  background-size: 100vw 800px;
-  background-repeat: none;
-  
+  width: 1080px;
+  height: 1080px;
+  background-image: url("pac-posters1.png");
+  background-size: 1080px 1080px;
+  background-repeat: no-repeat;
+  margin: 0px 800px 0px 250px;
+  /* background-color: #111; */
+  display: flex;
+  justify-content:center ;
 } 
